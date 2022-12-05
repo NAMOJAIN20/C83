@@ -1,8 +1,7 @@
-var images = ["https://i.postimg.cc/MKdhy06Z/family.jpg","https://i.postimg.cc/L6HcYQM0/grand-father.png", "https://i.postimg.cc/wjMnFtMX/father.jpg" , "https://i.postimg.cc/bw5W5zSK/mother.jpg", "https://i.postimg.cc/5ymDKL83/bro.jpg", "https://i.postimg.cc/JnL6wtrd/sister.jpg"];
+var images = ["https://i.postimg.cc/MKdhy06Z/family.jpg","https://i.postimg.cc/L6HcYQM0/grand-father.png", "https://i.postimg.cc/wjMnFtMX/father.jpg" , "https://i.postimg.cc/bw5W5zSK/mother.jpg", "httpts://i.postimg.cc/5ymDKL83/bro.jpg", "https://i.postimg.cc/JnL6wtrd/siser.jpg" , "https://i.postimg.cc/SNbjf0gQ/OIP.jpg" , "https://i.postimg.cc/2SVy7nsm/Adobe-Stock-34595583.jpg"];
+var names = ["Family Book","Dhankumar Jain - Grandfather", "Nitin Jain - Father", "Kritika Jain - Mother", "Vaibhav Jain - Brother", "Suhani Jain - Sister" , "Savita Jain - Grandmother" , " Scouty Jain - Dog"];
 
-var names = ["Family Book","Dhankumar Jain - Grandfather", "Nitin Jain - Father", "Kritika Jain - Mother", "Vaibhav Jain - Brother", "Suhani Jain - Sister" , "Savita Jain - Grandmother"];
-
-var age = [70, 43, 36, 19 , 14, 65]
+var age = [70, 43, 36, 19 , 14, 65 , 3]
 
 /*
 
